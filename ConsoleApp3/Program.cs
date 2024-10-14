@@ -6,9 +6,10 @@
         {
             while (true)
             {
-
+                // Enter the string you want to converted
                 Console.Write("PLease Enter Your String: ");
                 String input = Console.ReadLine();
+                // select the number of option  you want the string converting 
                 Console.WriteLine("PLease Select an option");
                 Console.WriteLine("1. Convert To upper");
                 Console.WriteLine("2. Convert To lower");
